@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/markettracker-react_js-web/static/css/main.5f361e03.chunk.css",
+    "main.js": "/markettracker-react_js-web/static/js/main.9bdf4471.chunk.js",
+    "main.js.map": "/markettracker-react_js-web/static/js/main.9bdf4471.chunk.js.map",
+    "runtime-main.js": "/markettracker-react_js-web/static/js/runtime-main.481442b6.js",
+    "runtime-main.js.map": "/markettracker-react_js-web/static/js/runtime-main.481442b6.js.map",
+    "static/js/2.d676bfb7.chunk.js": "/markettracker-react_js-web/static/js/2.d676bfb7.chunk.js",
+    "static/js/2.d676bfb7.chunk.js.map": "/markettracker-react_js-web/static/js/2.d676bfb7.chunk.js.map",
+    "index.html": "/markettracker-react_js-web/index.html",
+    "precache-manifest.6cdcd4444dfe235a9bf39a158204e622.js": "/markettracker-react_js-web/precache-manifest.6cdcd4444dfe235a9bf39a158204e622.js",
+    "service-worker.js": "/markettracker-react_js-web/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/markettracker-react_js-web/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d676bfb7.chunk.js.LICENSE.txt": "/markettracker-react_js-web/static/js/2.d676bfb7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.481442b6.js",
+    "static/js/2.d676bfb7.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.9bdf4471.chunk.js"
+  ]
+}
